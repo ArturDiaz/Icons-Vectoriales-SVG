@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="i-maleta-mano-bg" width="32" height="32" xmlns="http://www.w3.org/2000/svg" class="bs-icon" viewBox="0 0 32 32" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g>
+      <path stroke-width="0" fill="currentColor" d="M8,27 8,13 Q8,11 10,11 L13,11 13,4 Q12,4 12,3 Q12,2 13,2 L19,2 Q20,2 20,3 Q20,4 19,4 L19,11 18,11 18,4 14,4 14,11 22,11 Q24,11 24,13 L24,27 21,27 21,14 20,14 20,24 21,24 21,27 11,27 11,24 12,24 12,14 11,14 11,27 Z
+            M8,28 Q8,30 10,30 C10,32 12,32 12,30 L20,30 C20,32 22,32 22,30 Q24,30 24,28 Z">
+            </path>
+      </g>
+</svg>

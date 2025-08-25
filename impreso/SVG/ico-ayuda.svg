@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="i-seguro" width="32" height="32" xmlns="http://www.w3.org/2000/svg" class="bs-icon" viewBox="0 0 32 32" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#7a73b7">
+    <path d="M16,21 16,19 C16,16 21,15 21,11 C21,8 19,6 16,6 C13,6 11,8 11,11
+        M25.2,3.5 C21.5,0.5 15.5,0.5 16,0.5 C3.5,0.5 0.5,12 0.5,16 C0,22 6,31.5 16,31.5 C22,31.5 31.5,27 31.5,16 C31.5,16 31.5,12 29.8,9 "></path>
+      <circle stroke-width="0" fill="currentColor" cx="16" cy="25" r="1"/>
+  </g>
+</svg>

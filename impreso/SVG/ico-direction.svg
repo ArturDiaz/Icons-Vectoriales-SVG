@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="i-direction" width="32" height="32" xmlns="http://www.w3.org/2000/svg" class="icons-item" viewBox="0 0 32 32" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#7a73b7">
+        <path d="M12 31 L20 31 20 28 12 28 Z
+                M18 28 L18 20 M18 14 L18 12 M18 4 L18 1 15 1 15 3 M15 10 L15 14 M15 20 L15 25
+                M8 4 L29 4 31 7 29 10 8 10 Z
+                M24 14 L3 14 1 17 3 20 24 20 Z
+                M13 7 L24 7 M8 17 L19 17"></path>
+    </g>
+</svg>

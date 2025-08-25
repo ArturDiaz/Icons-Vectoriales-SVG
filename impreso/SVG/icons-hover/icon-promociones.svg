@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42" height="80" xmlns="http://www.w3.org/2000/svg" id="i-seguros" class="icons-item" viewBox="0 0 32 80" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#7a73b7">
+        <path d="M16,2 Q13,0 11,3 Q7,2 6,6 Q2,7 3,11 Q0,13 2,16 Q0,20 3,21.5 Q3,26 6,26 Q7,30 11,29 Q13,32 16,30 Q19,32
+        21,29 Q25,30 26,26 Q30,25 29,21 Q32,19 30,16 Q32,13 29,11 Q30,7 26,6 Q25,2 21,3 Q19,0 16,2 M11,22 21,10"></path>
+        <circle cx="12" cy="12" r="2.5"/><circle cx="20" cy="20" r="2.5"/>
+    </g>
+    <g style="transform: translateY(48px)" stroke="#fd009e">
+        <path d="M16,2 Q13,0 11,3 Q7,2 6,6 Q2,7 3,11 Q0,13 2,16 Q0,20 3,21.5 Q3,26 6,26 Q7,30 11,29 Q13,32 16,30 Q19,32
+        21,29 Q25,30 26,26 Q30,25 29,21 Q32,19 30,16 Q32,13 29,11 Q30,7 26,6 Q25,2 21,3 Q19,0 16,2 M11,22 21,10"></path>
+        <circle cx="12" cy="12" r="2.5"/><circle cx="20" cy="20" r="2.5"/>
+    </g>
+</svg>

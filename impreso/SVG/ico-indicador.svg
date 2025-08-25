@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="i-indicador" width="32" height="32" xmlns="http://www.w3.org/2000/svg" class="bs-icon" viewBox="0 0 32 32" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#7a73b7">
+    <circle cx="16" cy="13" r="5"/>
+    <path d="M16 31 6 21 C1 16 2 1 16 1 C30 1 31 16 26 21 Z"></path>
+  </g>
+</svg>

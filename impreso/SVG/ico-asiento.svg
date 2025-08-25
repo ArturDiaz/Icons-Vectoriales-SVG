@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="i-seat" width="32" height="32" xmlns="http://www.w3.org/2000/svg" class="bs-icon" viewBox="0 0 32 32" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#7a73b7">
+      <path d="M10,31 22,31 M16,31 Q18,28 19,24 M9,24 Q8,24 8,22 Q15,18 21,20 L25,9 Q22,5 25,2 Q28,1 28,2 L28,10 24,22 Q23,24 22,24 Z
+        M10,16 Q18,15 23,18 M4,8 C4,13 13,13 13,8 L13,5 C13,0 4,0 4,5 Z"></path>
+  </g>
+</svg>

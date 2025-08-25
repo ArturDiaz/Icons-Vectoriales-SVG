@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-75b73f8e-6ba0-40a8-9ac9-a5d3941e4b4e" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" width="102.1" height="80.4" viewBox="0 0 102.1 80.4">
+  <defs>
+    <style>
+      .uuid-5ed594de-2fad-432b-b26b-4626f5eb4868 {
+        fill: none;
+        stroke: #474751;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="uuid-f4732d49-1dd3-4f30-a344-28b612c4489d" data-name="delineado">
+    <g>
+      <rect class="uuid-5ed594de-2fad-432b-b26b-4626f5eb4868" x="1.5" y="1.5" width="99.1" height="77.4" rx="15.9" ry="15.9"/>
+      <path class="uuid-5ed594de-2fad-432b-b26b-4626f5eb4868" d="M91.9,15.5l-30.9,23.8c-5.6,4.3-13.4,4.4-19.1,0L10.2,15.4"/>
+    </g>
+  </g>
+</svg>

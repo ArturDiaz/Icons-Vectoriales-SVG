@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42" height="80" xmlns="http://www.w3.org/2000/svg" id="i-hotel" class="icons-item" viewBox="0 0 32 80" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#7a73b7">
+        <path d="M23,11 L26,9 C30,6 26,4 22,7 , L6,18 3,16 0.5,17 5.5,24.5 15,19.5 13,29 18,26 22,16.5 29,12 C32,10 34,6 28,6.5 ,
+        M19,8.5 L11,7.5 7,9.5 12,13 ,
+        M21,12.3 19,13.5 , M17,14.6 16,15.2 , M14,16.3 13.5,16.6"/>
+    </g>
+    <g style="transform: translateY(48px)" stroke="#fd009e">
+        <path d="M23,11 L26,9 C30,6 26,4 22,7 , L6,18 3,16 0.5,17 5.5,24.5 15,19.5 13,29 18,26 22,16.5 29,12 C32,10 34,6 28,6.5 ,
+        M19,8.5 L11,7.5 7,9.5 12,13 ,
+        M21,12.3 19,13.5 , M17,14.6 16,15.2 , M14,16.3 13.5,16.6"/>
+    </g>
+</svg>

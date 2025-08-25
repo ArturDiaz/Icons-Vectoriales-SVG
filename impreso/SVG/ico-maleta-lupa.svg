@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="i-auto" width="32" height="32" xmlns="http://www.w3.org/2000/svg" class="bs-icon" viewBox="0 0 32 32" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#7a73b7">
+      <path class="color-maleta" d="M18,26 18,27 Q18,29 16,29 L4,29 Q2,29 2,27 L2,10 Q2,8 4,8 L16,8 Q18,8 18,10 L18,11"></path>
+      <path d="M7,8 7,4 M13,8 13,4 M5,29 5,30 M15,29 15,30 M6,4 Q5,4 5,3 Q5,2 6,2 L14,2 Q15,2 15,3 Q15,4 14,4 Z M6,13 6,24 M10,13 10,22 
+      M23,22 25,24 24,25 28,28.5 30,26.5 26,23 25,24"></path>
+      <circle cx="19" cy="18.5" r="5"/>
+  </g>
+</svg>
